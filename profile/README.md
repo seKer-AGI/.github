@@ -263,10 +263,12 @@ flowchart LR
 
 
 <!-- ============================ CALL TO ACTION ======================== -->
-<a href="mailto:hello@sekerai.com">
-  <img width="100%" alt="Let's build something useful — hello@sekerai.com"
-       src="https://raw.githubusercontent.com/seKer-AGI/.github/main/profile/assets/cta.svg" />
-</a>
+<br>
+<div align="center">
+
+### Let's Build Something Useful
+
+</div>
 
 <p align="center">
   <a href="https://sekerai.com/"><img alt="Website" src="https://img.shields.io/badge/sekerai.com-5B7194?style=flat-square&logo=googlechrome&logoColor=white" /></a>
