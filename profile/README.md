@@ -61,17 +61,19 @@ We design, build, and deploy practical **AI, Data Science, Software, and Intelli
 <!-- ============================== STATS =============================== -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="32" alt="" /> By the Numbers
 
-<img width="100%" alt="150+ Projects Delivered · 100+ Happy Clients · 25+ Countries Served"
-     src="https://raw.githubusercontent.com/seKer-AGI/.github/main/profile/assets/stats.svg" />
+### By the Numbers
 
-<img width="100%" alt="" src="https://raw.githubusercontent.com/seKer-AGI/.github/main/profile/assets/divider.svg" />
+`150+ Projects Delivered · 100+ Happy Clients · 25+ Countries Served`
+
 
 
 <!-- ============================ SERVICES ============================== -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" width="32" alt="" /> What We Build
 
-<img width="100%" alt="seKer AI services: AI & Machine Learning, Generative AI & LLMs, Intelligent Automation, Software Development, End-to-End Delivery, Data Science & Analytics"
-     src="https://raw.githubusercontent.com/seKer-AGI/.github/main/profile/assets/services.svg" />
+### What We Do
+
+`AI & Machine Learning · Generative AI & LLMs · Intelligent Automation · Software Development · End-to-End Delivery · Data Science & Analytics`
+
 
 <details>
 <summary><b>📋 View the full service list</b></summary>
@@ -161,10 +163,10 @@ flowchart LR
 <!-- ============================= PROCESS ============================== -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Counterclockwise%20Arrows%20Button.png" width="32" alt="" /> How We Work
 
-<img width="100%" alt="Discovery → Data & Strategy → AI/ML Development → Automation & Integration → Deployment & Support"
-     src="https://raw.githubusercontent.com/seKer-AGI/.github/main/profile/assets/process.svg" />
+### How We Work
 
-<img width="100%" alt="" src="https://raw.githubusercontent.com/seKer-AGI/.github/main/profile/assets/divider.svg" />
+`Discovery → Data & Strategy → AI/ML Development → Automation & Integration → Deployment & Support`
+
 
 
 <!-- ============================ TECH STACK ============================ -->
@@ -172,8 +174,7 @@ flowchart LR
      skillicon use shields.io badges. Trim to what you actually use. -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32" alt="" /> Tech Stack
 
-<img width="100%" alt="Tools and capabilities"
-     src="https://raw.githubusercontent.com/seKer-AGI/.github/main/profile/assets/marquee.svg" />
+### Technology & Tools
 
 <table>
   <tr>
