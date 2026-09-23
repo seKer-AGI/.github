@@ -9,10 +9,11 @@
 
 
 <!-- ============================== HERO ================================ -->
-<a href="https://sekerai.com/">
-  <img width="100%" alt="seKer AI — Data. Intelligence. Impact."
-       src="https://raw.githubusercontent.com/seKer-AGI/.github/main/profile/assets/hero.svg" />
-</a>
+<div align="center">
+
+<a href="https://sekerai.com/"> <img src="./assets/seKer.jpeg" width="500" alt="seKer-AI — Data. Intelligence. Impact." /> </a>
+
+</div>
 
 <!-- Typing subtitle — edit `lines=` to change the rotating services -->
 <p align="center">
