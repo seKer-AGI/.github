@@ -11,7 +11,7 @@
 <!-- ============================== HERO ================================ -->
 <div align="center">
 
-<a href="https://sekerai.com/"> <img src="./assets/seKer.jpeg" width="500" alt="seKer-AI — Data. Intelligence. Impact." /> </a>
+<a href="https://sekerai.com/"> <img src="./assets/seKer.jpeg" width="300" alt="seKer-AI — Data. Intelligence. Impact." /> </a>
 
 </div>
 
